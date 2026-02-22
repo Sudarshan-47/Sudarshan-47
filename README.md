@@ -27,9 +27,9 @@
 
 <p align="center">  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-47&show_icons=true&theme=tokyonight" height="165"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-47&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-47&layout=compact&theme=tokyonight" height="165"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>  
 
 </p>  
 
@@ -38,7 +38,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">  
-<img src="https://streak-stats.demolab.com?user=Sudarshan-47&theme=tokyonight" />  
+<img src="https://streak-stats.demolab.com?user=Sudarshan-47&theme=tokyonight&hide_border=true&cache_seconds=86400" />  
 </p>  
 
 ---
@@ -54,8 +54,8 @@
 
 ## 📫 Connect With Me
 
-* 💬 Open to collaboration on AI projects
-* ⭐ Check out my repositories and give a star if you like them!
+💬 Open to collaboration on AI projects
+⭐ Check out my repositories and give a star if you like them!
 
 ---
 
