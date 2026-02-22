@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudarshan
 
-<!--
-**Sudarshan-47/Sudarshan-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AIML Student | Python Developer | AI Enthusiast
+🚀 Passionate about building AI projects, automation tools, and smart applications
+🎓 BVC Institute of Technology & Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+* 👨‍💻 Working mostly with **Python**
+* 🤖 Interested in AI projects, computer vision & automation
+* 🏆 Hackathon lover
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">  
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />  
+</p>  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-47&show_icons=true&theme=tokyonight" height="165"/>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-47&layout=compact&theme=tokyonight" height="165"/>  
+
+</p>  
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">  
+<img src="https://streak-stats.demolab.com?user=Sudarshan-47&theme=tokyonight" />  
+</p>  
+
+---
+
+## 🚀 Featured Skills
+
+✔ Python Programming
+✔ Artificial Intelligence
+✔ Machine Learning Basics
+✔ Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+* 💬 Open to collaboration on AI projects
+* ⭐ Check out my repositories and give a star if you like them!
+
+---
+
+⭐ **Thanks for visiting my profile!**
