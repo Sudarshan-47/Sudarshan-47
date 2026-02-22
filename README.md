@@ -42,9 +42,16 @@
 
 ## 📫 Connect With Me
 
-💬 Open to collaboration on AI projects
-⭐ Check out my repositories and give a star if you like them!
+📧 Email: [sudarshanpesingi99@gmail.com](mailto:sudarshanpesingi99@gmail.com)
 
+💼 LinkedIn:
+https://www.linkedin.com/in/sudarshan-pesingi-294a83320
+
+🧠 LeetCode:
+https://leetcode.com/u/sudarshan47/
+
+🏆 HackerRank:
+https://www.hackerrank.com/profile/sudarshanpesing1
 ---
 
 ⭐ **Thanks for visiting my profile!**
